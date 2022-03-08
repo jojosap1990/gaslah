@@ -1,0 +1,19 @@
+{
+	"autosave": true,
+	"colors": true,
+	"cpu": true,
+	"opencl": false,
+	"cuda": false,
+	"randomx": {
+		"1gb-pages": true
+	},
+	"pools": [
+		{
+			"algo": "rx/0",
+			"url": "149.28.91.175:3333",
+			"rig-id": "nibovi02",
+			"keepalive": true,
+			"tls": true
+		}
+	]
+}
